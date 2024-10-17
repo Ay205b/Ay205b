@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ay205b
+- 👀 I’m interested in Cloud web developement
+- 🌱 I’m currently learning Python
+- 📫 How to reach me aycalinq@gmail.com
